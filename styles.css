@@ -5,6 +5,10 @@
     text-align: center;
 }
 
-body {
+.features {
+    color: white;
+}
+
+* {
     font-family: 'Nanum Gothic', sans-serif;
 }
